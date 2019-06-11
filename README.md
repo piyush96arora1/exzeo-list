@@ -1,4 +1,6 @@
 
+The Project is live running at:-  https://piyush96arora1.github.io/exzeo-list/
+
 A react application to toggle the rendered list on the basis of votes of each product.
 
 ## Available Scripts
@@ -6,6 +8,9 @@ A react application to toggle the rendered list on the basis of votes of each pr
 A react application to toggle the rendered list on the basis of votes of each product.
 
 In the project directory, you can run:
+### `npm install`
+
+Downloads all the dependency.
 
 ### `npm start`
 
